@@ -46,7 +46,7 @@ public class mainWindow {
 	 * Initialize the contents of the frame.
 	 */
 	private void initialize() {
-		frmNameReverse = new JFrame();
+		frmNameReverseqwer = new JFrame();
 		frmNameReverse.setTitle("Name Reverse");
 		frmNameReverse.setBounds(100, 100, 450, 300);
 		frmNameReverse.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
